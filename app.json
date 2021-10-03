@@ -1,7 +1,7 @@
 {
     "name": "Song Downloader Bot",
     "description": "A bot that can download song you want.",
-    "logo": "https://te.legra.ph/file/96fa6d64af00a6dafc37e.mp4",
+    "logo": "https://te.legra.ph/file/0c7c839bf91540e822c83.jpg",
     "keywords": [
         "Music",
         "Songdl",
@@ -9,7 +9,7 @@
         "JE Bots"
     ],
     "website": "https://t.me/SL_MUSIC_HUB_Offcial",
-    "repository": "https://github.com/ImJanindu/Songdl-tgbot",
+    "repository": "https://github.com/Heshan20/MusicBot.git",
     "success_url": "http://t.me/MUSIC_HUB_Downloder_bot",
     "env": {
         "TG_BOT_TOKEN": {

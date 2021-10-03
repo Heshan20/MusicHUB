@@ -1,0 +1,43 @@
+{
+    "name": "Song Downloader Bot",
+    "description": "A bot that can download song you want.",
+    "logo": "https://te.legra.ph/file/96fa6d64af00a6dafc37e.mp4",
+    "keywords": [
+        "Music",
+        "Songdl",
+        "Telegram Bot",
+        "JE Bots"
+    ],
+    "website": "https://t.me/SL_MUSIC_HUB_Offcial",
+    "repository": "https://github.com/ImJanindu/Songdl-tgbot",
+    "success_url": "http://t.me/MUSIC_HUB_Downloder_bot",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your APP ID from my.telegram.org",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}

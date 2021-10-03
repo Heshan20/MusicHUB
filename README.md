@@ -7,17 +7,35 @@
 - In Private - Just send song name
 
 ### Deploy to Heroku 🏃‍♂
+ heshan](https://t.me/Dk_king_offcial)
+22
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/Songdl-tgbot)
+23
+### Join our group :
+24[MUSIC HUB](https://t.me/Dk_king_offcial)
+
+25
+
+26
+
+27
+- 
+28
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Heshan20/MusicHUB.git)
 
 ### Credits:
 
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
+-
 
 - [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
-### Developers:
+### Develope by:
 
-- [@ImJanindu](https://t.me/ImJanindu)
+- [@heshan](https://t.me/Dk_king_offcial)
 
-- [@InukaASiTH](https://t.me/InukaASiTH)
+### Join our group :
+
+
+
+- 
